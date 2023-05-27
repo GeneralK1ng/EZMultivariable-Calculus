@@ -14,7 +14,29 @@ Please note that the initial release of these notes is in English, with plans to
 As the author, a first-year student in the ICS program at Xi'an Jiaotong-Liverpool University, I am excited to share this educational material and encourage you to embark on your multi-variable calculus journey with these comprehensive notes.
 
 # Multi-Variable Calculus Notes
-Welcome to the Multi-Variable Calculus Notes repository! This project aims to provide comprehensive study materials for students taking MTH004 and MTH008 courses at Xi'an Jiaotong-Liverpool University. The notes are compiled by a first-year ICS student and designed to help learners grasp and master essential concepts in calculus.
+I am very pleased to share with you these notes on multivariable calculus, a personal study resource that I have put together to help you get a better grasp of this important and interesting (nope) subject.
+
+Multivariable calculus is a key subject in mathematics, exploring the properties of functions of many variables, the geometry of curves and surfaces, and their application to real-world problems. For you, mastering multivariable calculus is not only an important part of your academic development, it is also one of the most difficult mathematics courses you will experience in your first year at XJTLU ().
+
+However, learning multivariable calculus is not always an easy task. In the process, we often encounter various challenges and confusions. Therefore, I hope that this note will be a useful aid to your studies, providing you with clear and systematic explanations of concepts, detailed calculation steps and answers to some frequently asked questions. I have made every effort to ensure that the notes are accurate and easy to understand, but due to personal editing, there are inevitably some gaps and errors. I therefore welcome any questions or valuable suggestions you may have to help me improve and refine this study material.
+
+It is important to remember that multivariable calculus is a subject that requires hands-on practice. In addition to theoretical knowledge, it is more important to consolidate what you have learnt through a lot of practice and application to practical problems. I hope that these notes will stimulate your thinking and desire to explore, and help you to develop your problem-solving skills.
+
+As I am a student of MTH004, I may not be able to cover all the students in each course, so if you would like to add to this, you are more than welcome to do so!
+
+Finally, I would like to express my sincere wishes to you. I hope that these notes on multivariable calculus will be a good friend to you on your learning journey and help you to overcome your difficulties and achieve excellent results. Whether you are beginners or students who have already acquired some knowledge, I am sure that this note will provide you with something of value. May your progress in the world of multivariable calculus be unhindered.
+
+May your studies be fruitful!
+
+With my sincere regards.
+
+General_K1ng
+## Task List
+
+- [x] Infinite series
+- [x] Vectors
+- [x] Partial Derivatives (currently progressing to Chain Rule)
+- [] Double Integrals
 
 ## Features
 - **Clear and Concise Explanations**: The notes offer easy-to-understand explanations that break down complex topics into manageable concepts. The goal is to make calculus more approachable and accessible to all students.
