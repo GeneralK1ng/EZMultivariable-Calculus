@@ -36,7 +36,7 @@ General_K1ng
 - [x] Infinite series
 - [x] Vectors
 - [x] Partial Derivatives (currently progressing to Chain Rule)
-- [] Double Integrals
+- [ ] Double Integrals
 
 ## Features
 - **Clear and Concise Explanations**: The notes offer easy-to-understand explanations that break down complex topics into manageable concepts. The goal is to make calculus more approachable and accessible to all students.
