@@ -36,7 +36,7 @@ General_K1ng
 
 - [x] Infinite Series / 无穷级数
 - [x] Vectors / 向量
-- [x] Partial Derivatives / 偏导数 (Chain Rule / 链式法则)
+- [x] Partial Derivatives / 偏导数 (currently progressing to Chain Rule / 目前整理到链式法则)
 - [ ] Double Integrals / 双重积分
 
 
