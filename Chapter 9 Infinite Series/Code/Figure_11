@@ -1,0 +1,38 @@
+import matplotlib.pyplot as plt
+import numpy as np
+
+
+def f(x):
+    return np.sin(x)
+
+
+def taylor_approx(x, n):
+    approx = 0
+    for k in range(n + 1):
+        approx += ((-1) ** k) * (x ** (2 * k + 1)) / \
+            np.math.factorial(2 * k + 1)
+    return approx
+
+
+def plot_taylor_series(n, value):
+    x = np.linspace(-2 * np.pi, 2 * np.pi, 100)
+    y = f(x)
+    y_approx = taylor_approx(x, n)
+
+    plt.plot(x, y, label='Original function')
+    plt.plot(x, y_approx, label=f'Taylor series ({n} terms)')
+    plt.axvline(x=value, color='red', linestyle='--', label='Target value')
+
+    plt.legend()
+    plt.title("Taylor series approximation")
+    plt.xlabel("x")
+    plt.ylabel("y")
+    plt.show()
+
+
+# Get user input for the number of terms and the target value
+n = int(input("Enter the number of terms for Taylor series: "))
+value = float(input("Enter the target value: "))
+
+# Plot the Taylor series approximation
+plot_taylor_series(n, value)
