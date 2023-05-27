@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README_CN.md)
+
 # EZMultivariable-Calculus
 欢迎来到综合多变量微积分笔记库，专门为在西安交通大学-利物浦大学学习MTH004和MTH008的学生设计。这些笔记由ICS项目的一年级学生创建，旨在帮助学生加强对微积分中关键概念的理解和掌握。
 
